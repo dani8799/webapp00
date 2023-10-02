@@ -15,6 +15,6 @@ st.subheader("Bem vindo ao resolve aí!")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Esse é um aplicativo onde as empresas podem coloca seus problemas para que os alunos resolvam.")
 
-st.info("Tem como objetivo trazer soluções "fora da caixa" para as empresas e ajudar os alunos a terem contato com o meio profissionl ainda dentro da universidade!")
+st.info("Tem como objetivo trazer soluções fora da caixa para as empresas e ajudar os alunos a terem contato com o meio profissionl ainda dentro da universidade!")
 
 st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
